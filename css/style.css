@@ -47,6 +47,19 @@ main{
     text-transform: capitalize;
 }
 
+.pokemon__type{
+    position: absolute;
+    bottom: -1050%;
+    left: 10%;
+    color: #fff;
+    text-transform: capitalize;
+}
+.pokemon__type2{
+    position: absolute;
+    bottom: -1050%;
+    color: #fff;
+    text-transform: capitalize;
+}
 .form{
     position: absolute;
     width: 30%;
@@ -68,12 +81,12 @@ main{
 
 .buttons{
     position: absolute;
-    bottom: 17%;
-    left: 76.5%;
-    width: 32%;
+    bottom: 30%;
+    left: 67.5%;
+    width: 15%;
     transform: translate(-59%, 0);
     display: flex;
-    gap: 10px;
+    gap: 1px;
 }
 
 .button{
